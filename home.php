@@ -1,0 +1,236 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CWS Home</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="./CSS/home.css" class="css">
+  </head>
+  <header>
+    <nav class="navbar navbar-expand-lg custom-navbar">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">
+            <img src="./images/cws_logo.png" alt="CWS Logo" width="150" height="78">
+          </a>
+          <button class="navbar-toggler custom-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="toggler-line"></span>
+            <span class="toggler-line"></span>
+            <span class="toggler-line"></span>
+          </button>
+          <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Início</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="about.php">Sobre Nós</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="services.php">Treinamentos</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="contact.php">Contato</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </nav>
+  </header>
+  <body>
+    <section class="hero-section">
+      <div class="hero-overlay"></div>
+      <div class="hero-content">
+        <h1 class="h1-hero">
+          Capacitação de <span class="span-h1-hero">Condutores 4x4</span> com Alto Padrão
+        </h1>
+        <p class="p-hero">
+          Capacitamos motoristas e colaboradores para operar veículos com segurança, eficiência e total preparo — em ruas, estradas ou terrenos desafiadores.
+          Nosso treinamento reduz riscos, diminui custos de manutenção e assegura conformidade com normas obrigatórias para empresas de todos os setores.
+        </p>
+        <a href="#" class="hero-btn">Saiba Mais</a>
+      </div>
+    </section>
+    <section class="section-one">
+      <div class="container-section">
+        <div class="section-video">
+          <video 
+            src="./images/csw_video.mp4"
+            poster="./images/cws_logo.png"
+            controls
+            class="video-player">
+          </video>
+        </div>
+        <div class="section-text">
+          <h1 class="section-title">
+            Treinamento projetado para gerar resultados reais
+          </h1>
+          <p class="section-description">
+            Treinamento para motoristas atuarem com segurança, alta performance e decisões rápidas em qualquer cenário. Ideal para empresas que exigem qualificação e eficiência.
+          </p>
+          <a class="section-btn" href="#">Saiba mais</a>
+        </div>
+      </div>
+    </section>
+    <section class="benefits-section">
+      <div class="benefits-container">
+          <h1 class="benefits-title">Sua equipe enfrenta desafios que afetam segurança e performance?</h1>
+          <div class="benefits-cards">
+              <div class="benefit-card">
+                  <img src="images/icon_1.png" alt="Ícone" class="benefit-icon">
+                  <h3 class="benefit-card-title">Uso Inadequado dos Recursos</h3>
+                  <p>Colaboradores que desconhecem funções de segurança e tração, aumentando riscos e desgastes.</p>
+              </div>
+              <div class="benefit-card">
+                  <img src="images/icon_2.png" alt="Ícone" class="benefit-icon">
+                  <h3 class="benefit-card-title">Exigências de Certificação</h3>
+                  <p>Equipes impedidas de atuar em áreas restritas por falta de qualificação obrigatória.</p>
+              </div>
+              <div class="benefit-card">
+                  <img src="images/icon_6.png" alt="Ícone" class="benefit-icon">
+                  <h3 class="benefit-card-title">Custos Operacionais Elevados</h3>
+                  <p>Manutenções frequentes e desgaste da frota devido ao uso inadequado dos veículos.</p>
+              </div>
+          </div>
+          <p class="benefits-subtext">
+            Esses desafios comprometem produtividade, segurança e custos operacionais — mas todos eles podem ser eliminados com treinamento correto e metodologia especializada.
+          </p>
+      </div>
+    </section>
+    <section class="about-section">
+      <div class="about-container">
+          <div class="about-col about-image">
+            <img src="./images/image_3.jpg" alt="Sobre a empresa">
+          </div>
+          <div class="about-col about-text">
+            <h1 class="about-title">Especialistas em Treinamentos de Direção Corporativa</h1>
+            <p class="about-description">
+              Somos uma empresa especializada em capacitação profissional para motoristas, equipes operacionais e colaboradores que utilizam veículos no dia a dia. Ao longo dos anos, desenvolvemos uma metodologia prática e eficiente, focada na segurança, no comportamento preventivo e na redução de custos com manutenção e sinistros.
+            </p>
+            <p class="about-description">
+              Nosso compromisso é elevar o nível de preparo das equipes e trazer resultados reais para a operação da sua empresa.
+            </p>
+            <a class="about-btn" href="#">Conheça nossa história</a>
+          </div>
+      </div>
+    </section>
+    <section class="diff-section">
+      <div class="diff-container">
+          <div class="diff-col diff-text">
+            <h1 class="diff-title">Por que escolher nossos treinamentos?</h1>
+            <p class="diff-description">
+              Oferecemos capacitação completa com instrutores certificados e experientes, treinamentos práticos em ambientes reais e uma metodologia objetiva orientada a resultados.
+            </p>
+            <p class="diff-description">
+              Nossa capacitação combina prática real e metodologia moderna para reduzir custos, evitar quebras, garantir certificação e se adaptar às necessidades da sua operação
+            </p>
+            <a class="diff-btn" href="#">Descubra nossos diferenciais</a>
+          </div>
+          <div class="diff-col diff-image">
+            <img src="./images/image_6.jpg" alt="Diferenciais">
+          </div>
+      </div>
+    </section>
+    <section class="section-spacing partners-section">
+      <div class="container text-center">
+          <h1 class="partners-title">Empresas que Confiam na CWS</h1>
+          <p class="section-p-2">
+              A CWS é a escolha de empresas que valorizam segurança, eficiência e alta performance operacional. 
+              Nossos treinamentos elevam o nível técnico das equipes e reduzem riscos em qualquer tipo de operação.
+          </p>
+          <div class="logo-carousel">
+              <div class="logo-track">
+                  <img src="./images/brand_1.png" alt="1">
+                  <img src="./images/brand_2.png" alt="2">
+                  <img src="./images/brand_3.png" alt="3">
+                  <img src="./images/brand_4.png" alt="4">
+                  <img src="./images/brand_5.png" alt="5">
+                  <img src="./images/brand_6.png" alt="6">
+                  <img src="./images/brand_7.png" alt="7">
+                  <img src="./images/brand_8.png" alt="8">
+                  <img src="./images/brand_9.png" alt="9">
+                  <img src="./images/brand_10.png" alt="10">
+                  <img src="./images/brand_11.png" alt="11">
+                  <img src="./images/brand_12.png" alt="12">
+                  <img src="./images/brand_13.png" alt="13">
+                  <img src="./images/brand_14.png" alt="14">
+                  <img src="./images/brand_15.png" alt="15">
+                  <img src="./images/brand_16.png" alt="16">
+                  <img src="./images/brand_17.png" alt="17">
+                  <img src="./images/brand_1.png" alt="1">
+                  <img src="./images/brand_2.png" alt="2">
+                  <img src="./images/brand_3.png" alt="3">
+                  <img src="./images/brand_4.png" alt="4">
+                  <img src="./images/brand_5.png" alt="5">
+                  <img src="./images/brand_6.png" alt="6">
+                  <img src="./images/brand_7.png" alt="7">
+                  <img src="./images/brand_8.png" alt="8">
+                  <img src="./images/brand_9.png" alt="9">
+                  <img src="./images/brand_10.png" alt="10">
+                  <img src="./images/brand_11.png" alt="11">
+                  <img src="./images/brand_12.png" alt="12">
+                  <img src="./images/brand_13.png" alt="13">
+                  <img src="./images/brand_14.png" alt="14">
+                  <img src="./images/brand_15.png" alt="15">
+                  <img src="./images/brand_16.png" alt="16">
+                  <img src="./images/brand_17.png" alt="17">
+              </div>
+          </div>
+          <p class="partners-bottom-text">
+              Faça parte desse grupo de empresas que já transformam seus resultados com a CWS. Junte-se a quem prioriza excelência, certificação confiável e melhorias reais na operação.
+          </p>
+      </div>
+    </section>
+    <section class="final-section">
+        <h1 class="final-title">Faça parte do time!</h1>
+        <p class="final-subtitle">
+            Estamos prontos para entregar agilidade, simplicidade e a melhor experiência. Entre em contato conosco!
+        </p>
+        <div class="social-icons">
+            <a href="#" class="social-icon">
+                <img src="./images/instagram_logo.png" alt="Instagram">
+            </a>
+            <a href="#" class="social-icon">
+                <img src="./images/whatsapp_logo.png" alt="WhatsApp">
+            </a>
+            <a href="#" class="social-icon">
+                <img src="./images/facebook_logo.png" alt="Facebook">
+            </a>
+        </div>
+    </section>
+    <a href="https://wa.me/55SEUNUMEROAQUI" target="_blank" class="whatsapp-float">
+        <img src="./images/whatsapp_logo.png" alt="WhatsApp">
+    </a>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+  </body>
+  <footer class="main-footer">
+    <div class="footer-content">
+        <div class="footer-left">
+            <img src="./images/footer_logo.png" alt="Logo" class="footer-logo">
+        </div>
+        <div class="footer-center">
+            <p class="footer-lgpd">
+                © 2025 CWS. Todos os direitos reservados.<br>
+                Este site utiliza cookies em conformidade com a LGPD para melhorar sua experiência.
+            </p>
+        </div>
+        <div class="footer-right">
+            <a href="#">Início</a>
+            <a href="about.php">Sobre</a>
+            <a href="services.php">Assistência</a>
+            <a href="#parceiros">Contato</a>
+            <div class="footer-social">
+                <a href="#" class="footer-icon">
+                    <img src="./images/instagram_logo.png" alt="Instagram">
+                </a>
+                <a href="#" class="footer-icon">
+                    <img src="./images/whatsapp_logo.png" alt="WhatsApp">
+                </a>
+                <a href="#" class="footer-icon">
+                    <img src="./images/facebook_logo.png" alt="Facebook">
+                </a>
+            </div>
+        </div>
+    </div>
+  </footer>
+</html>
