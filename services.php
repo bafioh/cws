@@ -21,7 +21,7 @@
             <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                    <a class="nav-link" href="home.php">Início</a>
+                    <a class="nav-link" href="index.php">Início</a>
                     </li>
                     <li class="nav-item">
                     <a class="nav-link" href="about.php">Sobre Nós</a>
@@ -211,7 +211,7 @@
             </p>
         </div>
         <div class="footer-right">
-            <a href="home.php">Início</a>
+            <a href="index.php">Início</a>
             <a href="about.php">Sobre Nós</a>
             <a href="services.php">Treinamentos</a>
             <a href="contact.php">Contato</a>
