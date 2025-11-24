@@ -30,7 +30,7 @@
                 <a class="nav-link" href="services.php">Treinamentos</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="#">Contato</a>
+                <a class="nav-link" href="contact.php">Contato</a>
                 </li>
             </ul>
         </div>
@@ -64,20 +64,20 @@
         <div class="contact-cta-container">
             <h1 class="contact-cta-title">Fale Agora com Nossa Equipe</h1>
             <div class="social-icons">
-                <a href="#" class="social-icon" target="_blank">
+                <a href="https://www.instagram.com/cws.4x4" class="social-icon" target="_blank">
                     <img src="./images/instagram_logo.png" alt="Instagram">
                 </a>
-                <a href="#" class="social-icon" target="_blank">
+                <a href="https://wa.me/+5531991093501" class="social-icon" target="_blank">
                     <img src="./images/whatsapp_logo.png" alt="WhatsApp">
                 </a>
-                <a href="#" class="social-icon" target="_blank">
+                <a href="https://www.facebook.com/cws4x4/?locale=pt_BR" class="social-icon" target="_blank">
                     <img src="./images/facebook_logo.png" alt="Facebook">
                 </a>
             </div>
             <p class="contact-cta-text">
                 Tire dúvidas, solicite orçamento e agende seu treinamento de forma rápida e simples.
             </p>
-            <a href="https://wa.me/55SEUNUMEROAQUI" class="contact-cta-button" target="_blank">
+            <a href="https://wa.me/+5531991093501" class="contact-cta-button" target="_blank">
                 Entrar em Contato
             </a>
         </div>
@@ -94,7 +94,7 @@
             </div>
         </div>
     </section>
-    <a href="https://wa.me/55SEUNUMEROAQUI" target="_blank" class="whatsapp-float">
+    <a href="https://wa.me/+5531991093501" target="_blank" class="whatsapp-float">
         <img src="./images/whatsapp_logo.png" alt="WhatsApp">
     </a>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
@@ -112,17 +112,17 @@
         </div>
         <div class="footer-right">
             <a href="home.php">Início</a>
-            <a href="about.php">Sobre</a>
-            <a href="#">Assistência</a>
-            <a href="#parceiros">Contato</a>
+            <a href="about.php">Sobre Nós</a>
+            <a href="services.php">Treinamentos</a>
+            <a href="contact.php">Contato</a>
             <div class="footer-social">
-                <a href="#" class="footer-icon">
+                <a href="https://www.instagram.com/cws.4x4" class="footer-icon">
                     <img src="./images/instagram_logo.png" alt="Instagram">
                 </a>
-                <a href="#" class="footer-icon">
+                <a href="https://wa.me/+5531991093501" class="footer-icon">
                     <img src="./images/whatsapp_logo.png" alt="WhatsApp">
                 </a>
-                <a href="#" class="footer-icon">
+                <a href="https://www.facebook.com/cws4x4/?locale=pt_BR" class="footer-icon">
                     <img src="./images/facebook_logo.png" alt="Facebook">
                 </a>
             </div>

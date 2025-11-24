@@ -24,7 +24,7 @@
                     <a class="nav-link" href="home.php">Início</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="#">Sobre Nós</a>
+                    <a class="nav-link" href="about.php">Sobre Nós</a>
                     </li>
                     <li class="nav-item">
                     <a class="nav-link" href="services.php">Treinamentos</a>
@@ -134,41 +134,40 @@
                 </a>
             </div>
         </section>
-        <a href="https://wa.me/55SEUNUMEROAQUI" target="_blank" class="whatsapp-float">
+        <a href="https://wa.me/+5531991093501" target="_blank" class="whatsapp-float">
             <img src="./images/whatsapp_logo.png" alt="WhatsApp">
         </a>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
         <script async src="//www.instagram.com/embed.js"></script>
     </body>
     <footer class="main-footer">
-        <div class="footer-content">
-            <div class="footer-left">
-                <img src="./images/footer_logo.png" alt="Logo" class="footer-logo">
-            </div>
-            <div class="footer-center">
-                <p class="footer-lgpd">
-                    © 2025 CWS. Todos os direitos reservados.<br>
-                    Este site utiliza cookies em conformidade com a LGPD para melhorar sua experiência.
-                </p>
-            </div>
-            <div class="footer-right">
-                <a href="home.php">Início</a>
-                <a href="#">Sobre</a>
-                <a href="services.php">Assistência</a>
-                <a href="#parceiros">Contato</a>
-
-                <div class="footer-social">
-                    <a href="#" class="footer-icon">
-                        <img src="./images/instagram_logo.png" alt="Instagram">
-                    </a>
-                    <a href="#" class="footer-icon">
-                        <img src="./images/whatsapp_logo.png" alt="WhatsApp">
-                    </a>
-                    <a href="#" class="footer-icon">
-                        <img src="./images/facebook_logo.png" alt="Facebook">
-                    </a>
-                </div>
+    <div class="footer-content">
+        <div class="footer-left">
+            <img src="./images/footer_logo.png" alt="Logo" class="footer-logo">
+        </div>
+        <div class="footer-center">
+            <p class="footer-lgpd">
+                © 2025 CWS. Todos os direitos reservados.<br>
+                Este site utiliza cookies em conformidade com a LGPD para melhorar sua experiência.
+            </p>
+        </div>
+        <div class="footer-right">
+            <a href="home.php">Início</a>
+            <a href="about.php">Sobre</a>
+            <a href="services.php">Treinamentos</a>
+            <a href="contact.php">Contato</a>
+            <div class="footer-social">
+                <a href="https://www.instagram.com/cws.4x4" class="footer-icon">
+                    <img src="./images/instagram_logo.png" alt="Instagram">
+                </a>
+                <a href="https://wa.me/+5531991093501" class="footer-icon">
+                    <img src="./images/whatsapp_logo.png" alt="WhatsApp">
+                </a>
+                <a href="https://www.facebook.com/cws4x4/?locale=pt_BR" class="footer-icon">
+                    <img src="./images/facebook_logo.png" alt="Facebook">
+                </a>
             </div>
         </div>
+    </div>
     </footer>
 </html>

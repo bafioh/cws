@@ -21,7 +21,7 @@
           <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Início</a>
+                  <a class="nav-link" href="home.php">Início</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="about.php">Sobre Nós</a>
@@ -48,7 +48,7 @@
           Capacitamos motoristas e colaboradores para operar veículos com segurança, eficiência e total preparo — em ruas, estradas ou terrenos desafiadores.
           Nosso treinamento reduz riscos, diminui custos de manutenção e assegura conformidade com normas obrigatórias para empresas de todos os setores.
         </p>
-        <a href="#" class="hero-btn">Saiba Mais</a>
+        <a href="about.php" class="hero-btn">Saiba Mais</a>
       </div>
     </section>
     <section class="section-one">
@@ -68,7 +68,7 @@
           <p class="section-description">
             Treinamento para motoristas atuarem com segurança, alta performance e decisões rápidas em qualquer cenário. Ideal para empresas que exigem qualificação e eficiência.
           </p>
-          <a class="section-btn" href="#">Saiba mais</a>
+          <a class="section-btn" href="services.php">Saiba mais</a>
         </div>
       </div>
     </section>
@@ -110,7 +110,7 @@
             <p class="about-description">
               Nosso compromisso é elevar o nível de preparo das equipes e trazer resultados reais para a operação da sua empresa.
             </p>
-            <a class="about-btn" href="#">Conheça nossa história</a>
+            <a class="about-btn" href="about.php">Conheça nossa história</a>
           </div>
       </div>
     </section>
@@ -124,7 +124,7 @@
             <p class="diff-description">
               Nossa capacitação combina prática real e metodologia moderna para reduzir custos, evitar quebras, garantir certificação e se adaptar às necessidades da sua operação
             </p>
-            <a class="diff-btn" href="#">Descubra nossos diferenciais</a>
+            <a class="diff-btn" href="services.php">Descubra nossos diferenciais</a>
           </div>
           <div class="diff-col diff-image">
             <img src="./images/image_6.jpg" alt="Diferenciais">
@@ -187,18 +187,18 @@
             Estamos prontos para entregar agilidade, simplicidade e a melhor experiência. Entre em contato conosco!
         </p>
         <div class="social-icons">
-            <a href="#" class="social-icon">
+            <a href="https://www.instagram.com/cws.4x4" class="social-icon">
                 <img src="./images/instagram_logo.png" alt="Instagram">
             </a>
-            <a href="#" class="social-icon">
+            <a href="https://wa.me/+5531991093501" class="social-icon">
                 <img src="./images/whatsapp_logo.png" alt="WhatsApp">
             </a>
-            <a href="#" class="social-icon">
+            <a href="https://www.facebook.com/cws4x4/?locale=pt_BR" class="social-icon">
                 <img src="./images/facebook_logo.png" alt="Facebook">
             </a>
         </div>
     </section>
-    <a href="https://wa.me/55SEUNUMEROAQUI" target="_blank" class="whatsapp-float">
+    <a href="https://wa.me/+5531991093501" target="_blank" class="whatsapp-float">
         <img src="./images/whatsapp_logo.png" alt="WhatsApp">
     </a>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
@@ -215,18 +215,18 @@
             </p>
         </div>
         <div class="footer-right">
-            <a href="#">Início</a>
+            <a href="home.php">Início</a>
             <a href="about.php">Sobre</a>
-            <a href="services.php">Assistência</a>
-            <a href="#parceiros">Contato</a>
+            <a href="services.php">Treinamentos</a>
+            <a href="contact.php">Contato</a>
             <div class="footer-social">
-                <a href="#" class="footer-icon">
+                <a href="https://www.instagram.com/cws.4x4" class="footer-icon">
                     <img src="./images/instagram_logo.png" alt="Instagram">
                 </a>
-                <a href="#" class="footer-icon">
+                <a href="https://wa.me/+5531991093501" class="footer-icon">
                     <img src="./images/whatsapp_logo.png" alt="WhatsApp">
                 </a>
-                <a href="#" class="footer-icon">
+                <a href="https://www.facebook.com/cws4x4/?locale=pt_BR" class="footer-icon">
                     <img src="./images/facebook_logo.png" alt="Facebook">
                 </a>
             </div>
